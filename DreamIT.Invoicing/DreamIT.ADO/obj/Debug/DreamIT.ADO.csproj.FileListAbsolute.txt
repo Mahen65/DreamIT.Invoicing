@@ -1,0 +1,7 @@
+C:\Users\Asiri\documents\visual studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\obj\Debug\DreamIT.ADO.csprojResolveAssemblyReference.cache
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\bin\Debug\DreamIT.ADO.dll
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\bin\Debug\DreamIT.ADO.pdb
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\bin\Debug\DreamIT.Model.dll
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\bin\Debug\DreamIT.Model.pdb
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\obj\Debug\DreamIT.ADO.dll
+C:\Users\Asiri\Documents\Visual Studio 2017\Projects\DreamIT.Invoicing\DreamIT.ADO\obj\Debug\DreamIT.ADO.pdb
